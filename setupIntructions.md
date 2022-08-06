@@ -12,3 +12,4 @@ How to create a branch
 
 1. first after cloning do a git fetch
 2. create branch
+3. merge conflict rewrite here
