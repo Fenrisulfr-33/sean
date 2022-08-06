@@ -11,3 +11,4 @@
 How to create a branch
 
 1. first after cloning do a git fetch
+2. create branch
